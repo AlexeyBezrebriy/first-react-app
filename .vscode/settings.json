@@ -1,0 +1,19 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 13,
+  "editor.wordWrap": "off",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "trailing",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.codeLensFontSize": 13,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.colorDecorators": true,
+  "editor.columnSelection": false,
+  "editor.copyWithSyntaxHighlighting": true,
+  "editor.mouseWheelScrollSensitivity": 1,
+  "editor.smoothScrolling": true,
+  "workbench.list.mouseWheelScrollSensitivity": 1,
+  "workbench.list.smoothScrolling": true,
+  "timeline.pageOnScroll": true
+}
